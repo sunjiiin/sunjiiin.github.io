@@ -104,7 +104,7 @@ form input[type="submit"] {
   }
 
   .projects-grid {
-    grid-template-columns: 100%;
+    grid-template-columns: 50% 50%;
   }
 
   .links-and-contact {
