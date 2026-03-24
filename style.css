@@ -101,4 +101,12 @@ form input[type="submit"] {
   .about-grid {
     grid-template-columns: 100%;
   }
+
+  .projects-grid {
+    grid-template-columns: 100%;
+  }
+
+  .links-and-contact {
+    grid-template-columns: 100%;
+  }
 }
